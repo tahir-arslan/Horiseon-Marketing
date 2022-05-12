@@ -1,4 +1,4 @@
-# Horiseon SEO Marketing
+# Horiseon Marketing
 
 We are a site that specializes in online marketing for businesses through the use of Search Engine Optimization and building a Social Media presence.
 
